@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Codigo de prueba para el TP 4" << endl;
+  return 0;
+}
